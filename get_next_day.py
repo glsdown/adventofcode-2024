@@ -14,6 +14,9 @@ TEMPLATE_PYTHON = """
 import sys
 
 import aocd
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Set the day and year
 DAY = "{DAY}"
