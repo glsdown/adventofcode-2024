@@ -2,3 +2,4 @@ advent-of-code-data
 black
 ipython
 python-dotenv
+sympy
