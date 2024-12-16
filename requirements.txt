@@ -3,3 +3,4 @@ black
 ipython
 python-dotenv
 sympy
+tqdm
